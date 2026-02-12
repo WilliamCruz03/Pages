@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pages.MainPage"
+             BackgroundColor="Red"
+             IconImageSource="user.png"
+             Title="Pagina1"
+             IsBusy="True"
+             Padding="38">
+
+    <StackLayout>
+        <Button Text="boton1"/>
+        <Button Text="boton2"/>
+        <Button Text="boton3"/>
+    </StackLayout>
+
+
+</ContentPage>
